@@ -6,6 +6,17 @@ Team UnoFlyp
 
 ---
 
+| Name | UID |
+|---|---|---|
+| **Daanveer Mehra** | 24BAI70059 |
+| **Krrishika Rana** | 24BAI70109 |
+| **Aditya Srivastava** | 24BAI70067 |
+| **Waseem Akram** | 24BAI70006 |
+| **Tanishka Jaiswal** | 25BCS13273 |
+| **Lakshit Jaiswal** | 25BCS10821 |
+
+---
+
 ## Project Overview
 
 ASTRA-HAR is a real-time mission control console engineered to monitor astronauts conducting scientific biology experiments in microgravity aboard orbital habitats such as the International Space Station or Gaganyaan. A fixed payload optical camera feeds an on-device computer vision and temporal activity recognition pipeline. The system detects experiment apparatus, tracks 33-point skeletal keypoints and hand grip kinematics, recognizes performed actions, and deterministically validates sequence compliance against pre-defined experimental protocols.
@@ -233,15 +244,6 @@ All 3D globe assets (NASA Blue Marble diffuse, cloud, normal, and specular maps)
 ## Team UnoFlyp
 
 Developed for **Smart India Hackathon 2026** under **ISRO Problem Statement PS-26174**:
-
-| Name | Role | Responsibilities |
-|---|---|---|
-| **Daanveer** | Project Lead / System Architect | Core state management, mission orchestration, and UI design system |
-| **Krrishika** | Frontend & UX Engineer | Viewport layouts, Three.js integration, and glassmorphic styling |
-| **Aditya** | AI Pipeline Simulation Lead | YOLOv8/MediaPipe simulation logic and NPU telemetry models |
-| **Waseem** | Telemetry & Infrastructure | System health metrics, hardware drift profilers, and bandwidth tracking |
-| **Tanishka** | Protocol Engine Specialist | DAG state validation rules and event audit logging engine |
-| **Lakshit** | Video Pipeline & Optics | Video stream telemetry, recording manager, and ground station relays |
 
 ---
 
