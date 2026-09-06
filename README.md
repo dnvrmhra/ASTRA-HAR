@@ -7,7 +7,7 @@ Team UnoFlyp
 ---
 
 | Name | UID |
-|---|---|---|
+|---|---|
 | **Daanveer Mehra** | 24BAI70059 |
 | **Krrishika Rana** | 24BAI70109 |
 | **Aditya Srivastava** | 24BAI70067 |
